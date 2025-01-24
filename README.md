@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MarkOtwane
-- 👀 I’m interested in web design,machine learning & Artificial intelligence
-- 🌱 I’m currently learning python
+- 👀 I’m interested in Full stack website development,machine learning & Artificial intelligence
+- 🌱 I’m currently learning php and java
 - 💞️ I’m looking to collaborate on many project
 - 📫 How to reach me link in my profile.
 - 😄 Pronouns: he
