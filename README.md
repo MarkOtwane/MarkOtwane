@@ -1,12 +1,41 @@
-- 👋 Hi, I’m @MarkOtwane
-- 👀 I’m interested in Full stack website development,machine learning & Artificial intelligence
-- 🌱 I’m currently learning php and java
-- 💞️ I’m looking to collaborate on many project
-- 📫 How to reach me link in my profile.
-- 😄 Pronouns: he
-- ⚡ Fun fact: Did you know that the term "bug" in computer programming originated from an actual insect? In 1947, when computer scientist Grace Hopper found a moth causing a malfunction in the Harvard Mark II computer, she famously taped it to a logbook and noted, "First actual case of bug being found." And that's how the term "debugging" came to be! 🐛🖥
+# 👋 Hello World, I'm Mark Otwane!
 
-<!---
-MarkOtwane/MarkOtwane is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Welcome to my GitHub profile — where ideas evolve into innovation.  
+I’m a passionate Full Stack Developer with a strong foundation in web technologies and a curiosity that keeps me exploring new tech every day.
+
+💻 Tech Stack
+Here are some of the tools and technologies I work with regularly:
+
+- Frontend: HTML, CSS, JavaScript, TypeScript  
+- Backend: NestJS  
+- Database: PostgreSQL  
+- Currently Exploring: PHP, Java  
+
+Interests
+I'm deeply interested in:
+- Full Stack Web Development  
+- Machine Learning  
+- Artificial Intelligence  
+- Building scalable, maintainable systems  
+
+Collaboration
+I'm open to collaborating on:
+- Full-stack web applications  
+- Projects involving AI/ML integration  
+- Open-source initiatives that make an impact
+
+If you've got an idea or need a partner, feel free to reach out!
+
+Connect with Me
+You can find my contact details and more about my work
+
+Always Learning
+I believe in continuous learning and evolving. My current learning goals include mastering PHP and diving deeper into Java to enhance my backend versatility.
+
+Fun Fact
+Did you know the term **"bug"** in computer programming originated from an actual insect? 🐛  
+In 1947, Grace Hopper and her team discovered a moth causing issues in the Harvard Mark II computer. They taped it to the logbook and labeled it as the *“first actual case of a bug being found”*. And just like that, "debugging" was born!
+
+*"Code is like humor. When you have to explain it, it’s bad." – Cory House*
+
+Thanks for stopping by — let’s build something amazing together! 
