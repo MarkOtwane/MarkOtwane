@@ -59,4 +59,5 @@ Feel free to reach out or follow my work:
 
 If you'd like to support my projects and content:
 
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/otwanemark254@gmail.com)
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/otwanemark254)
+
