@@ -1,10 +1,11 @@
-# 👋 Hello! I'm Mark Otwane
+# MARK OTWANE A FULL-STACK DEVELOPER
+Hello! I’m **Mark Otwane**, a Full Stack Developer based in Nairobi, Kenya. I specialize in building scalable, user-focused web applications with a strong emphasis on clean architecture and performance.
 
-I'm a **Full Stack Developer** based in Nairobi, Kenya 🇰🇪, with a passion for crafting scalable and user-centric web applications. My expertise lies in building robust backend systems and intuitive frontend interfaces, leveraging technologies like **Angular**, **NestJS**, **Node.js**, and **TypeScript**.
+My core stack includes **Angular**, **NestJS** and **TypeScript—technologies** I’ve used to craft full-stack systems that are both robust and intuitive. I also bring a solid foundation in **Java**, **PHP**, **MySQL** and **PostgreSQL**, which helps me work across diverse tech environments with confidence.
 
-With a strong foundation in **Java**, **PHP**, and **PostgreSQL**, I thrive on transforming complex problems into elegant solutions. I believe in continuous learning and am always exploring new tools and frameworks to enhance my development workflow.
+What sets me apart isn’t just my technical skill set—but my ability to learn fast, adapt quickly, and lead effectively. I’m not afraid to dive into new challenges, and I bring strong negotiation and leadership skills that help drive collaboration and decision-making in team environments.
 
-Beyond coding, I'm an advocate for clean architecture and efficient design patterns, ensuring that every project I undertake is maintainable and performant.
+I’m passionate about transforming complex problems into elegant, maintainable solutions—and I take pride in writing clean, scalable code that stands the test of time. I'm excited to contribute not only as a developer but also as someone who brings energy, responsibility, and a strategic mindset to every team I join.
 
 ---
 
