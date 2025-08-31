@@ -2,7 +2,7 @@
 
 Hello! I’m **Mark Otwane**, a Full Stack Developer based in Nairobi, Kenya. I build end-to-end digital solutions with a focus on usability, performance, and long-term scalability.
 
-My primary stack includes **Angular**, **NestJS**, **TypeScript**, and **PostgreSQL**, which I combine to create dynamic frontends and powerful backends. I also have deep experience with **Python**, **JavaScript**, **PHP**, **Laravel**, **MySQL**, **HTML5**, and **CSS3**, allowing me to work fluidly across a wide range of projects and platforms.
+My primary stack includes **Angular**, **NestJS**, **TypeScript**, and **PostgreSQL**, which I combine to create dynamic frontends and powerful backends. I also have deep experience with **Python**, **JavaScript**, **MySQL**, **HTML5**, and **CSS3**, allowing me to work fluidly across a wide range of projects and platforms.
 
 I'm well-versed in **Figma** for UI/UX design and increasingly explore the integration of **AI** into web applications—always pushing for smarter, faster, more intuitive solutions.
 
@@ -24,14 +24,12 @@ I love transforming big ideas into elegant, functional products—and I take pri
 ## 💻 Tech Stack
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/prisma-3982CE?style=for-the-badge&logo=prisma&logoColor=white)
@@ -40,7 +38,6 @@ I love transforming big ideas into elegant, functional products—and I take pri
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=white)
 ![Render](https://img.shields.io/badge/render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Trello](https://img.shields.io/badge/trello-%23026AA7.svg?style=for-the-badge&logo=trello&logoColor=white)
@@ -60,12 +57,6 @@ I love transforming big ideas into elegant, functional products—and I take pri
 ## 🔝 Top Contributed Repo
 
 ![](https://github-contributor-stats.vercel.app/api?username=MarkOtwane&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-
-## 📈 Visitor Count
-
-[![](https://visitcount.itsvg.in/api?id=MarkOtwane&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ---
 
