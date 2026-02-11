@@ -2,7 +2,7 @@
 
 Hello! I’m **Mark Otwane**, a Full Stack Developer based in Nairobi, Kenya. I build end-to-end digital solutions with a focus on usability, performance, and long-term scalability.
 
-My primary stack includes **Angular**, **NestJS**, **TypeScript**, and **PostgreSQL**, which I combine to create dynamic frontends and powerful backends. I also have deep experience with **Python**, **JavaScript**, **MySQL**, **HTML5**, and **CSS3**, allowing me to work fluidly across a wide range of projects and platforms.
+My primary stack includes **Angular**, **NestJS**, **TypeScript**, and **PostgreSQL**, which I combine to create dynamic frontends and powerful backends. I also have deep experience with **PHP**, **Python**, **JavaScript**, **MySQL**, **HTML5**, and **CSS3**, allowing me to work fluidly across a wide range of projects and platforms.
 
 I'm well-versed in **Figma** for UI/UX design and increasingly explore the integration of **AI** into web applications—always pushing for smarter, faster, more intuitive solutions.
 
