@@ -1,4 +1,4 @@
-# MARK OTWANE – A FULL-STACK DEVELOPER
+# MARK OTWANE – A SOFTWARE DEVELOPER
 Hello, I’m Mark Otwane, a software developer who enjoys building clean and user-friendly digital solutions. I work with Python, JavaScript, Node.js, PHP, Angular, NestJS, MySQL, PostgreSQL, MongoDB, React Native, and Figma to create websites, web apps, mobile apps, and backend systems that are reliable and easy to use. Turning ideas into real products that help businesses grow and solve real problems is what I’m passionate about. Reach out today and let’s build something great together.
 
 
