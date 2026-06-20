@@ -1,6 +1,5 @@
 # MARK OTWANE – A SOFTWARE DEVELOPER
-Hello, I’m Mark Otwane, a software developer who enjoys building clean and user-friendly digital solutions. I work with Python, JavaScript, Node.js, PostgreSQL, MongoDB, React Native, and Figma to create websites, web apps, mobile apps, and backend systems that are reliable and easy to use. Reach out today and let’s build something great together.
-
+Mark Otwane is a software engineer and CEO of MicroTech Solutions, driving digital innovation with a vision of a connected Africa and a mission to create jobs by linking skilled youth with service opportunities.
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/https://www.behance.net/otwanemark254) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/otwanemark) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/otwanemark/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mark-otwane-800871349/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://www.pinterest.com/MicroTechSolutionsLimited/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/MarkOtwane) 
